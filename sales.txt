@@ -1,0 +1,35 @@
+
+
+Name:Om Dave 
+Mobile no:9054052808
+Address:Ahmedabad
+Bill:160
+
+Name:Khwahish Patel 
+Mobile no:1234567890
+Address:Ahmedabad
+Bill:320
+
+Name:Vats Patel 
+Mobile no:9054052809
+Address:Ahmedabad
+Bill:180
+
+Name:Om Dave 
+Mobile no:9054052808
+Address:73,Pankaj society , Bhattha , Paldi
+Bill:160
+
+Name:Paras Dave 
+Mobile no:9879027809
+Address:pankaj society
+
+Name:Xyz 
+Mobile no:1234567890
+Address:ahd
+Bill:120
+
+Name:Om Dave 
+Mobile no:1234567890
+Address:Amedabad
+Bill:320
